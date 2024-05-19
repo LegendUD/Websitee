@@ -1,0 +1,18 @@
+# Ignore system files and directories
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+AppData/
+Documents/My Music/
+Documents/My Pictures/
+Documents/My Videos/
+node_modules/
+.vscode/
+.DS_Store
